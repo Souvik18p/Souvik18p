@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **artificial intelligence , front end developer web developerment**
 
-- 📫 How to reach me **souvikpramanick.1@gmail.com**
+- 📫 How to reach me **souvikpramanick018@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
