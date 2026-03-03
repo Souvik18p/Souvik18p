@@ -28,11 +28,15 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/souvik-pramanick-923627222/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="30" width="30"/>
+<img src="https://img.icons8.com/color/48/linkedin.png" width="30"/>
 </a>
 &nbsp;&nbsp;
 <a href="https://instagram.com/s.o.u.v.i.k18" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/instagram/instagram-original.svg" height="30" width="30"/>
+<img src="https://img.icons8.com/color/48/instagram-new.png" width="30"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://github.com/souvik18p" target="_blank">
+<img src="https://img.icons8.com/ios-glyphs/30/github.png" width="30"/>
 </a>
 </p>
 
@@ -41,24 +45,19 @@
 ## 🚀 Languages and Tools
 
 <p align="left">
-
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
-
+<img src="https://img.icons8.com/color/48/python.png"/>
+<img src="https://img.icons8.com/color/48/google-cloud.png"/>
+<img src="https://img.icons8.com/color/48/git.png"/>
+<img src="https://img.icons8.com/color/48/linux.png"/>
+<img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+<img src="https://img.icons8.com/color/48/mongodb.png"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Souvik's GitHub stats](https://github-readme-stats.vercel.app/api?username=souvik18p&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=souvik18p&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
